@@ -1,0 +1,1 @@
+This is a text file that cointains the config files of es_extended to make a sertain type of notify on every script. You can find the file you need to edit in: ES_EXTENDED - client - functions.lua - CTRL F: ESX.Notification and replace it with the tipe of notify you want
